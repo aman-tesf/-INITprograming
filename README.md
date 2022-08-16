@@ -1,6 +1,6 @@
 # -INITprograming
 ## TEXT,CALCULETOR,STORAGE 
-
+### Text
 * STYLING USING HTML PROGRAMING LANGUAGE, css (Cascading Style Sheets), and some others
 * using HTML to style 
 
@@ -15,5 +15,5 @@
      * STYLING USING HTML PROGRAMING LANGUAGE, css (Cascading Style Sheets), and some others   
      
     ### What is Computer 
-    * A computer is a digital electronic machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks.([computer]((https://www.computerhope.com/jargon/c/computer.htm))
+    * A computer is a digital electronic machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks.([computer](https://www.computerhope.com/jargon/c/computer.htm))
   
